@@ -6,7 +6,7 @@ pub: "Remote Sensing"
 pub_date: "2025, 17(24), 4011"
 abstract: >-
   A region-adaptive phenology-aware framework for perennial cash crop mapping using multi-source time-series remote sensing data.
-cover: /assets/images/covers/物候感知.png
+cover:assets/images/covers/cover4.png
 authors:
   - Yujuan Yang
   - Shi Cao
